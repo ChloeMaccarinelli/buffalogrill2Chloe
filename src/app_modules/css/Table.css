@@ -1,0 +1,13 @@
+.tableRow:hover > * > Button {
+    opacity: 0.3;
+    float: right;
+    color : red;
+    font-weight: bold;
+}
+
+.tableRow > * > Button {
+
+    opacity: 0;
+    float: right;
+
+}

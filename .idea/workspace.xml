@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92fad0be-2e52-4c6b-bc5b-009f5403e268" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app_modules/Table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app_modules/Table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app_modules/crud_mongo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app_modules/crud_mongo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app_modules/css/Table.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app_modules/css/Table.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W0n0RW4h7VLve6RpooL1N6ntZ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ts.external.directory.path" value="D:\PhpStorm\PhpStorm 2018.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92fad0be-2e52-4c6b-bc5b-009f5403e268" name="Default Changelist" comment="" />
+      <created>1576592467654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576592467654</updated>
+      <workItem from="1576592468773" duration="6455000" />
+      <workItem from="1576842617606" duration="1979000" />
+      <workItem from="1576949439325" duration="838000" />
+      <workItem from="1578235356677" duration="7280000" />
+      <workItem from="1578295169229" duration="13607000" />
+      <workItem from="1578384924136" duration="2694000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added pagination &amp; table control">
+      <created>1578320878821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578320878821</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added suppression button with ID passing">
+      <created>1578326717894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578326717894</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added pagination &amp; table control" />
+    <MESSAGE value="Added suppression button with ID passing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added suppression button with ID passing" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="388" y="263" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578313190192">
+      <screen x="0" y="0" width="1280" height="735" />
+    </state>
+    <state x="388" y="263" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.735@0.0.1280.735" timestamp="1578313190192" />
+    <state x="234" y="0" key="CommitChangelistDialog2" timestamp="1578326717482">
+      <screen x="0" y="0" width="1280" height="735" />
+    </state>
+    <state x="234" y="0" key="CommitChangelistDialog2/0.0.1280.735@0.0.1280.735" timestamp="1578326717482" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1578326727693">
+      <screen x="0" y="0" width="1280" height="735" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.735@0.0.1280.735" timestamp="1578326727693" />
+    <state x="319" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1578295169032">
+      <screen x="0" y="0" width="1280" height="735" />
+    </state>
+    <state x="319" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.735@0.0.1280.735" timestamp="1578295169032" />
+    <state x="305" y="59" width="670" height="676" key="search.everywhere.popup" timestamp="1578326194014">
+      <screen x="0" y="0" width="1280" height="735" />
+    </state>
+    <state x="305" y="59" width="670" height="676" key="search.everywhere.popup/0.0.1280.735@0.0.1280.735" timestamp="1578326194014" />
+  </component>
+</project>
